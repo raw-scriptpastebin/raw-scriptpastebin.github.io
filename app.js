@@ -1,5 +1,5 @@
 const yourDate = new Date("2022-09-29T00:00:00"),
-music = ['tinhyeumauhong', 'anhtheday', 'anhsedonem', 'yeutrongnangmai', 'emkhacgihoa', 'nucuoiem', 'tinhca', 'anhdalacvao', 'emlahoanghon', 'thichthich', 'xinmaruocdau', 'changcanembantam', 'tinhyeukhunglong', 'phaichangemdayeu', 'seetinh', 'tuthichthichthanhthuongthuong'];
+music = ['1', '2', '3', '4', '5', '6', '7'];
 
 document.addEventListener('DOMContentLoaded', function(){
       var rootTime = document.querySelector("time");
